@@ -16,3 +16,15 @@ h1 {
 	border-color: #dd0000;
 	text-align: center;
 }
+
+a {
+	text-decoration: none
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+p:first-letter {
+	font-size: 150%;
+}
