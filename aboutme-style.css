@@ -1,0 +1,18 @@
+p {
+	color: #0000de;
+	font-family: "Arial";
+	font-size: 30px;
+}
+
+li {
+	color: #00b000;
+	font-family: "Courier New";
+}
+
+h1 {
+	background-color: #ffab30;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #dd0000;
+	text-align: center;
+}
